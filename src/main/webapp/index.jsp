@@ -8,8 +8,8 @@
 <h1>Emplyee name</h1>
 	<input type="input" name="employeeName">
 	<h1>Employee Id</h1><input type="input" name="employeeId">
-	<h1>Employee Id</h1><input type="input" name="employeeCity">
+	<h1>Employee city</h1><input type="input" name="employeeCity">
 	<input type="submit">
 </form>
 </body>
-</html>
+</html>http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1336
